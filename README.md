@@ -29,4 +29,5 @@ Supports [Adafruit IO](https://io.adafruit.com/) for dashboards and cloud storag
 
 ## Documentation :notebook:
  - [Firmware configuration](https://github.com/lucadentella/WioAirMonitor/tree/main/documentation/firmware-config.md)
+ - [Feeds and dashboard configuration](https://github.com/lucadentella/WioAirMonitor/tree/main/documentation/dashboard-config.md) 
 
