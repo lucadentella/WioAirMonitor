@@ -1,6 +1,6 @@
 # WioAirMonitor
 
-![](https://github.com/lucadentella/LnControlPanel/raw/main/images/board-modules.jpg)
+![](https://github.com/lucadentella/WioAirMonitor/raw/main/images/cover.png)
 
 ## Description
 
