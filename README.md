@@ -16,7 +16,7 @@ Supports [Adafruit IO](https://io.adafruit.com/) for dashboards and cloud storag
 
 ## Features :trophy:
 
- - Real-time detection of dust concentration (partical sizes: PM2.5, PM5 and PM10) with **HM3301** laser dust sensor
+ - Real-time detection of dust concentration (particle sizes: PM2.5, PM5 and PM10) with **HM3301** laser dust sensor
  - Position information thanks to **GPS** sensor
  - GUI with color **gauges**
  - Cloud dashboards and data storage thanks to Adafruit IO service (**MQTT** protocol)
@@ -28,5 +28,5 @@ Supports [Adafruit IO](https://io.adafruit.com/) for dashboards and cloud storag
  - [Arduino firmware](https://github.com/lucadentella/WioAirMonitor/tree/main/AirMonitor)
 
 ## Documentation :notebook:
- - [Firmware configuration]()
+ - [Firmware configuration](https://github.com/lucadentella/WioAirMonitor/tree/main/documentation/firmware-config.md)
 
