@@ -22,7 +22,7 @@ Supports [Adafruit IO](https://io.adafruit.com/) for dashboards and cloud storag
  - Cloud dashboards and data storage thanks to Adafruit IO service (**MQTT** protocol)
 
 ## Tutorials :video_camera:
- - tbd
+ - [Blog post](http://www.lucadentella.it/en/2022/11/13/wioairmonitor/) on my website
 
 ## Resources :open_file_folder:
  - [Arduino firmware](https://github.com/lucadentella/WioAirMonitor/tree/main/AirMonitor)
